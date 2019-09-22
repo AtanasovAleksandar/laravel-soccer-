@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+}
+
+.mu-image-size {
+  height: 635px;
+  width: 100%;
+}
+.mu-carousel {
+  height: 635px;
+}
+.mu-card {
+  height: 400px;
+}
+.mu-footer {
+  height: 120px;
+  background-color: #343a40;
+}
+
+/*# sourceMappingURL=app.css.map */

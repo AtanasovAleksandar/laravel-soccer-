@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+.mu {
+    &-image {
+        &-size {
+            height: 635px;
+            width: 100%;
+        }
+    }
+
+    &-carousel {
+        height: 635px;
+    }
+
+    &-card {
+        height: 400px;
+    }
+
+    &-footer {
+        height: 120px;
+        background-color: #343a40;
+    }
+}
